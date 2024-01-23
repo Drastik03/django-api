@@ -21,17 +21,17 @@ Asegúrate de tener instalados los siguientes requisitos antes de comenzar:
     .\env\Scripts\activate       # Para sistemas basados en Windows
 
 # Continúa con la instalación de requirements
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 # Instala Vite globalmente
-npm install -g create-vite
+    npm install -g create-vite
 
 # Crea una nueva aplicación Vite
-create-vite nombre-de-tu-app
+    create-vite nombre-de-tu-app
 
 # Inicia la app con vite
-npm run dev
+    npm run dev
 
 
 ## Recordatorio
-No olvides tener correctamente configurado los archivos settings.py de django
+    No olvides tener correctamente configurado los archivos settings.py de django
