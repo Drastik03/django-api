@@ -34,4 +34,6 @@ Asegúrate de tener instalados los siguientes requisitos antes de comenzar:
 
 
 ## Recordatorio
-    No olvides tener correctamente configurado los archivos settings.py de django
+-No olvides tener correctamente configurado los archivos settings.py de django
+-No olvides dar acceso a los servidores
+-No olvides correr el programa en distintos terminales para (Django / React / Tailwind)
